@@ -1,0 +1,7 @@
+{
+  "name": "json-server-heroku",
+  "description": "json-server-heroku",
+  "repository": "https://github.com/jagadeeshthegeek/json-server-heroku",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "json-server"]
+}
